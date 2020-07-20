@@ -22,4 +22,6 @@ This project was written in Python using its data analysis tools, such as Pandas
 
 This was a Kaggle competetion, and the data is available at: https://www.kaggle.com/c/dog-breed-identification/data.
 
-The Jupyter notebook `dog-vision.ipynb` contains the project's code and report. And the folder `models` contains some saved models we built during this project.
+The Jupyter notebook `dog-vision.ipynb` contains the project's code and report.
+
+And the folder `models` contains some saved models we built during this project.
