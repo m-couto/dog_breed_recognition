@@ -7,7 +7,7 @@ The stages of the project were the following:
 - Preprocessing the data:
   - turning (non-numerical) image data into tensors (numerical);
   - turning data into batches;
-- Modelling the data with **convolutional neural networks**;
+- Modelling the data with *convolutional neural networks*;
 - Creating callbacks for:
   - tracking the model's progress;
   - preventing overfitting;
